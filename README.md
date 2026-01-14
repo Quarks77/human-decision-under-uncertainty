@@ -8,7 +8,7 @@ This project is an early-stage attempt to model such behavior computationally.
 # Current Status
 This is an early prototype. The logic is intentionally simple and will evolve over time.
 
-# Next Steps
-i. Log human decisions
-ii. Introduce adaptive decision rules
-iii. Explore learning from past behavior
+## Next Steps
+- Log human decisions
+- Introduce adaptive decision rules
+- Explore learning from past behavior
